@@ -1,11 +1,9 @@
-
-
-<!--# 👋 Hi, I'm Satya Anand
+# 👋 Hi, I'm Satya Anand
 
 ### 🎓 CSE Student | 🤖 GenAI & ML Developer | 🌐 Full-Stack Developer | 🧠 DSA Enthusiast
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=false&vCenter=true&width=700&lines=Building+AI-powered+applications;Exploring+Generative+AI+%26+LLMs;Learning+DSA+%26+Problem+Solving;Turning+Ideas+into+Real+Projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&width=700&lines=Building+AI-powered+applications;Exploring+Generative+AI+%26+LLMs;Learning+DSA+%26+Problem+Solving;Turning+Ideas+into+Real+Projects" />
 </p>
 
 ---
@@ -16,17 +14,14 @@ I'm a **Computer Science & Engineering student** passionate about building pract
 
 Currently, I'm focusing on **Generative AI, Machine Learning, Full-Stack Development, and Data Structures & Algorithms**.
 
-I enjoy learning by building projects and experimenting with technologies that solve real-world problems.
+I believe in learning by building real projects, solving problems, and continuously improving my technical skills.
 
-### 🎯 What I'm Working On
-
-* 🤖 Generative AI & LLM Applications
-* 🧠 RAG & AI-powered Chatbots
-* 🔗 AI Agents & MCP
-* 🌐 Full-Stack Web Applications
-* 📊 Machine Learning & Deep Learning
-* 💻 Data Structures & Algorithms
-* 🚀 Building and deploying practical projects
+* 🎓 B.Tech in Computer Science & Engineering
+* 🏫 Haldia Institute of Technology
+* 📅 Graduation: 2027
+* 🤖 Exploring Generative AI & LLM Applications
+* 💻 Practicing Data Structures & Algorithms
+* 🌐 Building Full-Stack Applications
 
 ---
 
@@ -52,7 +47,7 @@ I enjoy learning by building projects and experimenting with technologies that s
 
 **Libraries & Technologies**
 
-`Scikit-learn` • `Pandas` • `NumPy` • `Matplotlib` • `NLTK` • `spaCy`
+`NumPy` • `Pandas` • `Matplotlib` • `Scikit-learn` • `NLTK` • `spaCy`
 `TensorFlow` • `Keras` • `Hugging Face` • `Streamlit`
 
 ### 🧠 Generative AI
@@ -68,19 +63,19 @@ I enjoy learning by building projects and experimenting with technologies that s
 
 ---
 
-## 💼 Projects
+## 💼 Featured Projects
 
 ### 🤖 Customer Churn Prediction
 
 Machine Learning application that predicts customer churn using an **Artificial Neural Network (ANN)**.
 
-**Tech:** Python • TensorFlow/Keras • Scikit-learn • Pandas • Streamlit
+**Tech:** `Python` `TensorFlow` `Keras` `Scikit-learn` `Pandas` `Streamlit`
 
 ---
 
 ### 📝 NLP Preprocessing App
 
-An interactive NLP application for performing common text preprocessing operations.
+Interactive NLP application for performing common text preprocessing operations.
 
 **Features:**
 
@@ -89,15 +84,15 @@ An interactive NLP application for performing common text preprocessing operatio
 * Stemming
 * Lemmatization
 
-**Tech:** Python • NLTK • spaCy • Streamlit
+**Tech:** `Python` `NLTK` `spaCy` `Streamlit`
 
 ---
 
 ### 🌾 KisanBazaar — Contract Farming Marketplace
 
-A full-stack marketplace concept connecting farmers and buyers through a digital platform.
+A full-stack marketplace designed around connecting farmers and buyers through a digital platform.
 
-**Tech:** HTML • CSS • JavaScript • Node.js • Express.js • MySQL • Multer
+**Tech:** `HTML` `CSS` `JavaScript` `Node.js` `Express.js` `MySQL` `Multer`
 
 ---
 
@@ -105,15 +100,7 @@ A full-stack marketplace concept connecting farmers and buyers through a digital
 
 An AI-powered chatbot designed to help users discover and understand relevant government schemes.
 
-**Tech:** Python • Hugging Face • NLP • Streamlit
-
----
-
-### 💡 AI & GenAI Projects
-
-Currently building and experimenting with applications involving:
-
-`LLMs` • `RAG` • `AI Agents` • `MCP` • `Document Intelligence`
+**Tech:** `Python` `Hugging Face` `NLP` `Streamlit`
 
 ---
 
@@ -127,7 +114,7 @@ I'm actively improving my **Data Structures & Algorithms** skills through consis
 `Binary Search` • `Linked List` • `Stack & Queue`
 `Trees` • `Heaps` • `Greedy` • `Dynamic Programming`
 
-### 🔥 Consistency
+### 🔥 DSA Journey
 
 **21 Days DSA Challenge** ✅ Completed
 
@@ -193,13 +180,13 @@ I'm actively improving my **Data Structures & Algorithms** skills through consis
 
 ## 🌱 2026 Goals
 
-* [ ] Become strong in DSA & Problem Solving
+* [ ] Strengthen DSA & Problem Solving
 * [ ] Build production-ready GenAI applications
 * [ ] Learn Advanced RAG & AI Agents
 * [ ] Explore MCP & Agentic Workflows
-* [ ] Build more full-stack projects
+* [ ] Build more Full-Stack projects
 * [ ] Contribute to Open Source
-* [ ] Secure a strong Software/AI internship 🚀
+* [ ] Secure a strong Software / AI internship 🚀
 
 ---
 
@@ -227,17 +214,3 @@ I believe the best way to learn technology is to **build real things with it.** 
 <p align="center">
   ⭐ If you find my projects useful, consider giving them a star!
 </p>
-
-**satya-anand-ml/satya-anand-ml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
