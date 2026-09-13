@@ -173,7 +173,7 @@ I'm actively improving my **Data Structures & Algorithms** skills through consis
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satya-anand-ml&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=satya-anand-ml&theme=tokyo-night&hide_border=true" alt="Satya Anand's GitHub Activity Graph" />
 </p>
 
 ---
